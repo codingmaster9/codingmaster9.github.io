@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width = device-width">
+  <title> HTML Exercise I </title>
+  <style>
+    #heading {
+      text-align: center;
+      color: blue;
+    }
+    
+    #heading:hover { 
+      color: red;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 id="heading"> HTML Exercise I </h1>
+  
+</body>
+
+</html>
